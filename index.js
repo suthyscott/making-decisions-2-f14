@@ -70,3 +70,5 @@ while (guessMe < 100) {
 }
 
 console.log(guessMe)
+
+// This is a comment
